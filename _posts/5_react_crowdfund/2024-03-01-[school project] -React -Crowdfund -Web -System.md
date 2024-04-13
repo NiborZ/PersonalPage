@@ -1,3 +1,4 @@
+[JavaScript, React.js, MaterialUI, Node.js, MongoDB, Jest]
 <a href="https://github.com/NiborZ/ReactProject_CrowdfundCA" rel="noopener">@github_link</a>
 <h3>Project Presentation</h3>
 <iframe src="/assets/pdf/react_project.pdf" style="width: 100%;height: 600px;border: none;"></iframe>
